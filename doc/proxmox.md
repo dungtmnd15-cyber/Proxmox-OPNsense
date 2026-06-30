@@ -2,10 +2,8 @@
 
 ## Hardware
 
--04 cores
--12 GB RAM
--2 GB RAM VGA 
--50 GB ổ cứng
+- 2 SSD 480GB mirror
+- 1 SSD OS
 
 
 ## Installation
